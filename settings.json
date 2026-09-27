@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "bihar-76Zc.aternos.me:20378",
+    "port":  20378,
     "version": "1.21.1"
   },
   "position": {
